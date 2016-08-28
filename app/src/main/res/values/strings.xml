@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Share</string>
+
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="clear_all">Clear All</string>
+</resources>

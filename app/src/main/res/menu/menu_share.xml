@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.practo.synapse.dashboard.DashboardActivity">
+
+    <item
+        android:id="@+id/delete_item"
+        android:icon="@drawable/vc_delete"
+        android:title="@string/delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/share_item"
+        android:icon="@drawable/vc_share"
+        android:title="@string/share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/clear_all"
+        android:icon="@drawable/vc_share"
+        android:title="@string/clear_all"
+        app:showAsAction="never" />
+</menu>
